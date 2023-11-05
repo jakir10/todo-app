@@ -1,8 +1,31 @@
-# React + Vite
+# Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Site
 
-Currently, two official plugins are available:
+[Todo App](https://todo-manage-app.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Vercel server Link
+
+[Todo App - server](https://todo-server-one-iota.vercel.app)
+
+### App Fuctionality
+
+- Add Todo.
+- Get All Todo List.
+- Get Single Todo vie click on todo title.
+- View Single todo details and status.
+- Move todo forward or backward as todo in-progress or done.
+
+### List of Technology & library
+
+- React js
+- Node js
+- ES6 javascript
+- Tailwind css
+- Daisy UI Component
+- Express js
+- MongoDB database
+- React Router Dom
+- Context api
+- Deploy UI in Netlify
+- Deploy Server in Vercel
