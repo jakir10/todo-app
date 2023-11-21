@@ -10,11 +10,11 @@
 
 ### App Fuctionality
 
-- Add Todo.
+- Add/Create Todo.
 - Get All Todo List.
 - Get Single Todo vie click on todo title.
 - View Single todo details and status.
-- Move todo forward or backward as todo in-progress or done.
+- Move todo forward or backward as All Todo, in-progress or done.
 
 ### List of Technology & library
 
